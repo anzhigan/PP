@@ -1,0 +1,10 @@
+.cp_cards{
+	margin: 0 auto;
+
+	width: 1110px;
+	
+	display: flex;
+	overflow-x: scroll; 
+
+	background: #F9F9F9;
+}
