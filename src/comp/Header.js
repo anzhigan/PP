@@ -1,8 +1,8 @@
-import '../style/Header.css';
+import header_class from '../style/Header.module.css';
 
 function Header() {
   return (
-    <header class="header">
+    <header class="App_header__2WtBN">
       <div class="header-container">
         <div class="nav">
           <a href="#">
