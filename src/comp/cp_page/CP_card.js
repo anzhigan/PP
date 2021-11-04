@@ -1,4 +1,4 @@
-import '../style/CP_card.css';
+import '../../style/cp_page/CP_card.css';
 
 const CP_card = (props) => {
 	return(

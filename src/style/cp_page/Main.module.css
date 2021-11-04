@@ -1,0 +1,7 @@
+.main{
+	width: 1110px;
+	margin: 100px auto 0;
+	grid-area: 'm';
+	background-color: blue;
+}
+

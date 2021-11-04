@@ -1,4 +1,4 @@
-import '../style/CP_cards.css';
+import '../../style/cp_page/CP_cards.css';
 
 import CP_card from './CP_card';
 

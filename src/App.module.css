@@ -1,0 +1,11 @@
+.app_wrapper{
+  display: grid;
+  width: 1240px;
+  margin: 0 auto;
+
+
+  grid-gap: 10px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 70px 1fr;
+  justify-content:center;
+}

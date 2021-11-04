@@ -1,3 +1,10 @@
+.header{
+  grid-area: 'h';
+  background-color: grey;
+  grid-column-start: 1;
+  grid-column-end: 4;
+}
+
 .nav{
 	display:  flex;
 	justify-content: space-between;

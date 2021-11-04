@@ -2,7 +2,7 @@ import header_class from '../style/Header.module.css';
 
 function Header() {
   return (
-    <header class="App_header__2WtBN">
+    <header class={header_class.header}>
       <div class="header-container">
         <div class="nav">
           <a href="#">
